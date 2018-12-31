@@ -55,6 +55,7 @@
     "feathers-service-tests": "^0.10.2",
     "mocha": "^5.2.0",
     "nyc": "^13.1.0",
+    "semistandard": "^13.0.1",
     "sinon": "^7.2.2"
   }
 }
